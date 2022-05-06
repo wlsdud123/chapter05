@@ -37,7 +37,7 @@ public class PhoneListApp {
 		}
 
 		for(Person i : pList) {
-			i.showInfo();
+			i.showInfo(); //d
 		}
 		
 		bw.close();
